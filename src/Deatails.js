@@ -7,6 +7,7 @@ import bootstrap from "./assets/tech/bootstrap.png";
 import cv from "./assets/CV.pdf";
 import todo from "./assets/TodoList.png";
 import QuizApp from "./assets/QuizApp.png";
+import weather from "./assets/weather.png";
 
 
 export const tech = [
@@ -46,15 +47,21 @@ export const ProjectDeatails = [
     {
         title: "Todo List",
         description: "A responsive and fully-featured Todo List website built using React.js and Tailwind CSS",
-        link: "https://todo-list-reactjs-css3.netlify.app/",
+        link: "https://todo-list-chi-lilac.vercel.app/",
         image: todo,
     },
     {
         title: "Quiz App",
         description: " Quiz App website built using React.js and CSS",
-        link: "https://quiz-app-96605f.netlify.app/",
+        link: "https://quiz-app-sable-psi.vercel.app/",
         image: QuizApp,
     },
+    {
+        title: "Weather App",
+        description: " Weather App website built using React.js and tailwindCSS",
+        link: "https://weather-api-data.vercel.app/",
+        image: weather,
+    }
 ]
 
 export const socialMediaUrl = {
