@@ -58,7 +58,7 @@ export const ProjectDeatails = [
     },
     {
         title: "Weather App",
-        description: " Weather App website built using React.js and tailwindCSS",
+        description: " Weather App website built using React.js ,FetchAPI and TailwindCSS",
         link: "https://weather-api-data.vercel.app/",
         image: weather,
     }
