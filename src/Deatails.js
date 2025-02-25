@@ -7,7 +7,7 @@ import bootstrap from "./assets/tech/bootstrap.png";
 import cv from "./assets/CV.pdf";
 import todo from "./assets/TodoList.png";
 import QuizApp from "./assets/QuizApp.png";
-import weather from "./assets/weather.png";
+import weather from "./assets/Weather.png";
 
 
 export const tech = [
